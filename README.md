@@ -1,0 +1,2 @@
+# Corecoin
+Corecoin
